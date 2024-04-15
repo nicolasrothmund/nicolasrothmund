@@ -6,10 +6,7 @@
 
 ##
 - 🎓 Management & Technology (B.Sc.) student at TUM in Munich
-- 🌏 Explored Taiwan's academic landscape with a scholarship, delving into cutting-edge technological domains
-- 💼 Former Intern & Working Student at KPMG Deutschland (in Digital Transformation Compliance)
-- 💡 Passionate about finance and the intersection of technology
-- 🚗 Fascinated by the Automotive Industry's dynamics
+
 ##
 
 ### Let's Innovate Together
